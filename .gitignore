@@ -1,0 +1,19 @@
+*.prefs
+*.class
+*.classpath
+*.project
+*.log
+
+.settings
+ajcore.*
+
+target/
+logs/
+log/
+bin/
+
+.idea/
+*.iml
+
+#Mac OS X
+.DS_Store
